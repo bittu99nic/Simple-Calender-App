@@ -45,10 +45,10 @@ public class MainActivity extends AppCompatActivity {
                                     int dayOfMonth)
                             {
 
-                                // Store the value of date with
-                                // format in String type Variable
-                                // Add 1 in month because month
-                                // index is start with 0
+                                /* Store the value of date with
+                                 format in String type Variable
+                                 Add 1 in month because month
+                                 index is start with 0 */
                                 String Date
                                         = dayOfMonth + "-"
                                         + (month + 1) + "-" + year;
